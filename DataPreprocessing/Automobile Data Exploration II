@@ -1,0 +1,7 @@
+Mtcars, the automobile company in the United States, has planned to rework on optimizing the horsepower of its cars as most of the   
+customers’ feedback was centred around horsepower.   
+However, while developing an ML model with respect to horsepower, the efficiency of the model was compromised.   
+Irregularity might be one of the causes.  
+  
+
+Objective: Check for missing values and outliers within the horsepower column and remove them.
