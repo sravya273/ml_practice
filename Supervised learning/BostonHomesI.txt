@@ -1,0 +1,9 @@
+A real estate company wants to build homes at different locations in Boston.  
+They have data for historical prices but haven’t decided the actual prices yet. 
+They want to price the homes so that they are affordable to the general public.
+  
+Objective:
+• Import the Boston data from sklearn and read the description using DESCR.
+• Analyze the data and predict the approximate prices for the houses.
+
+The required data set for this project is inbuilt in Python sklearn package
