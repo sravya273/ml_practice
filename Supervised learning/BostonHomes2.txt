@@ -1,0 +1,4 @@
+For the Boston dataset used earlier, the team also wants to cross-reference results using regularization techniques.
+Objective:
+• Build a predictive model using Ridge, Lasso, and ElasticNet.
+• Compare the models on the basis of accuracy.
